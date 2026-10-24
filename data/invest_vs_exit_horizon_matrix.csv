@@ -1,0 +1,9 @@
+Horizon,BUY Signals (N),P(Success | Invest on BUY %),P(Beat Nifty | Invest on BUY %),Mean BUY Return (%),SELL Signals (N),P(Success | Exit on SELL: Price Drops %),P(Success | Named Superstar SELL Drops %),P(Beat Nifty | Exit on SELL %),Combined Action Win Rate (%),Combined Beat-Nifty Action Rate (%)
++1D,368,51.1,47.3,0.59,257,51.4,52.1,55.6,51.2,50.7
++3D,306,49.0,47.4,0.75,195,49.7,52.8,55.9,49.3,50.7
++5D,273,49.1,47.6,0.81,170,48.8,48.6,54.7,49.0,50.3
++10D,238,50.0,46.2,3.01,141,46.8,46.8,46.8,48.8,46.4
++20D,235,52.3,51.5,3.74,141,48.2,48.2,50.4,50.8,51.1
++60D,225,56.9,54.2,9.0,140,53.6,53.6,57.9,55.6,55.6
++90D,217,53.0,49.8,10.82,138,53.6,53.6,54.3,53.2,51.5
+Live (To-Date),441,43.8,36.5,40.89,352,41.5,50.7,50.0,42.7,42.5

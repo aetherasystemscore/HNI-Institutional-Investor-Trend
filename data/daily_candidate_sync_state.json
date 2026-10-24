@@ -1,0 +1,19 @@
+{
+  "last_sync_date_ist": "2026-10-24",
+  "last_sync_timestamp_ist": "2026-10-24 16:34:31 IST (Sat)",
+  "last_sync_epoch": 1792839871.44,
+  "new_candidates_discovered": 70,
+  "live_cmps_refreshed_count": 0,
+  "auto_refresh_policy": "Daily Auto-Sync (09:20 IST Market Open & 15:00 IST Paper Trade + Offline Catch-Up on Wake)",
+  "market_status": {
+    "now_ist_str": "2026-10-24 16:34:31 IST (Sat)",
+    "ist_now_str": "2026-10-24 16:34:31 IST (Sat)",
+    "is_weekday": false,
+    "is_market_open": false,
+    "is_pre_open": false,
+    "status_badge": "\ud83d\udd52 MARKET CLOSED \u2014 Showing Latest Verified Exchange Close CMP",
+    "status_label": "\ud83d\udd52 MARKET CLOSED \u2014 Showing Latest Verified Exchange Close CMP",
+    "status_color": "#38bdf8",
+    "mode_note": "Post-Market / Off-Hours (Auto-Syncs at 09:20 & 15:00 IST Mon\u2013Fri)"
+  }
+}

@@ -1,0 +1,9 @@
+Horizon,Sell Disclosures (N),Immediate-Exit Success (Price Drops %),Beat-Nifty by Exiting Rate (%),Named Superstar Exit Success (%),>=3% Drop Avoided Rate (%),Post-Exit Mean Stock Return (%),Post-Exit Median Stock Return (%),Mean Alpha Saved vs Nifty (%),Avg Drop Avoided when Right (%),Avg Upside Missed when Wrong (%)
++1D,257,51.4,55.6,52.1,15.6,0.28,-0.01,-0.03,-2.56,3.42
++3D,195,49.7,55.9,52.8,24.6,0.84,0.0,-0.4,-3.85,5.54
++5D,170,48.8,54.7,48.6,31.2,1.0,0.0,-0.43,-5.13,7.1
++10D,141,46.8,46.8,46.8,36.9,1.48,0.31,-1.22,-6.82,8.79
++20D,141,48.2,50.4,48.2,32.6,2.66,0.65,-2.02,-7.7,12.32
++60D,140,53.6,57.9,53.6,43.6,3.91,-1.44,-1.78,-13.19,23.63
++90D,138,53.6,54.3,53.6,47.8,5.21,-1.65,-2.47,-16.6,30.43
+Live (To-Date),352,41.5,50.0,50.7,25.0,43.01,0.0,-37.62,-18.24,143.57

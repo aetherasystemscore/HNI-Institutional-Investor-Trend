@@ -1,0 +1,12 @@
+{
+  "schedule_rule": "Every Weekday (Mon\u2013Fri) at 15:00 IST (3:00 PM IST)",
+  "value_change_gate": "Active (Executes ONLY if live price/signal value changed)",
+  "duplicate_guard": "Active (Never duplicates an already ACTIVE ticker)",
+  "current_ist_time": "2026-10-24 16:36:41 IST (Sat)",
+  "is_weekday_today": false,
+  "last_completed_session_ist": "2026-10-23 15:00:00 IST (Fri)",
+  "next_scheduled_run_ist": "2026-10-26 15:00:00 IST (Mon)",
+  "new_trades_triggered_last_check": 4,
+  "skipped_duplicates_total": 14,
+  "skipped_no_value_change_total": 0
+}

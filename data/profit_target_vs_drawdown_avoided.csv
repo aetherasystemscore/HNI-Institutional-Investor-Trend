@@ -1,0 +1,6 @@
+Threshold Magnitude,BUY Profit-Target,P(Hit Profit Target within 20D %),P(Hit Profit Target within 60D %),SELL Drawdown-Avoided,P(Avoid Drawdown within 20D %),P(Avoid Drawdown within 60D %)
++/- 2% Move,Exit at +2% Profit after Immediate BUY,74.7,79.1,Avoid -2% Drop by Immediate EXIT on SELL,67.3,71.6
++/- 3% Move,Exit at +3% Profit after Immediate BUY,66.6,72.0,Avoid -3% Drop by Immediate EXIT on SELL,56.4,62.6
++/- 5% Move,Exit at +5% Profit after Immediate BUY,54.9,63.0,Avoid -5% Drop by Immediate EXIT on SELL,42.4,50.2
++/- 8% Move,Exit at +8% Profit after Immediate BUY,42.9,53.5,Avoid -8% Drop by Immediate EXIT on SELL,25.3,37.7
++/- 10% Move,Exit at +10% Profit after Immediate BUY,35.1,48.1,Avoid -10% Drop by Immediate EXIT on SELL,19.1,33.1
